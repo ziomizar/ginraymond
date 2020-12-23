@@ -1,4 +1,4 @@
-module github.com/go-box/ginraymond
+module github.com/ziomizar/ginraymond
 
 go 1.14
 
